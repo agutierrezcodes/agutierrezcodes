@@ -85,7 +85,6 @@
 
 
 ![snake gif](https://github.com/agutierrezcodes/agutierrezcodes/blob/output/snake-dark.svg)
-
   
   
   </div>
