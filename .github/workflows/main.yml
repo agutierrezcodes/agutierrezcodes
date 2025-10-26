@@ -32,7 +32,7 @@ jobs:
           github_user_name: agutierrezcodes
           outputs: |
             dist/snake.svg
-            dist/snake-dark.svg?palette=github-dark
+            dist/snake-dark.svg?color_snake=white&color_dots=#A2B4DE,#7C93C4,#5570A3,#395387,#1D3363
           
           
       # push the content of <build_dir> to a branch
