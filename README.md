@@ -13,8 +13,8 @@
 <div id="mainText">
   <div id="intro">
     <p>
-      Hello! My name is Abigail Gutierrez and I am a recent graduate from the University of Washington with my BS in Computer Science and Systems.  <br /><br />
-      <em>I am currently searching for entry-level software development roles.</em>
+      Hello! My name is Abigail Gutierrez and I am a recent graduate from the University of Washington with my BS in Computer Science and Systems.  <br /> <br />
+      <em>I am currently seeking entry-level software development positions.</em>
     </p>
   </div>
 
@@ -24,7 +24,8 @@
       <strong>Skills:</strong>
       <ul>
       <li>Java</li>
-      <li>JavaScript & additional frameworks/libraries</li>
+      <li>Python</li>
+      <li>JavaScript</li>
       <ul>
         <li>jQuery</li>
         <li>Node.js</li>
@@ -32,6 +33,9 @@
         <li>Svelte</li>
       </ul>
       <li>HTML/CSS</li>
+        <ul>
+          <li>Bootstrap</li>
+        </ul>
       <li>SQL</li>
     </ul>
     </p>
@@ -47,6 +51,7 @@
         <li>GitHub Repo: https://github.com/agutierrezcodes/exploring-racial-wealth-gap</li>
         <li>Developed with HTML/CSS, JavaScript, Svelte</li>
         <li>IDE: Visual Studio Code</li>
+        <li>Created for the 2025 Kode with Klossy x Black Wealth Data Center Scrollytelling Challenge</li>
       </ul>
     </p>
   </div>
@@ -65,7 +70,7 @@
 
   <div id="contact">
     <p>
-      Contact me via <a href="https://www.linkedin.com/in/abi-gutierrez/"> LinkedIn</a> or at abigutierrezcortez@gmail.com!
+      Please feel free to contact me via <a href="https://www.linkedin.com/in/abi-gutierrez/"> LinkedIn</a>!
     </p>
   </div>
 
