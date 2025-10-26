@@ -45,7 +45,7 @@
         <li>Name: "IS IT TIME TO BRIDGE THE RACIAL WEALTH GAP? An exploration of the effects of the racial wealth gap in America"</li>
         <li>Website link: https://agutierrezcodes.github.io/exploring-racial-wealth-gap/</li>
         <li>GitHub Repo: https://github.com/agutierrezcodes/exploring-racial-wealth-gap</li>
-        <li>Tech used: HTML/CSS, JavaScript, Svelte</li>
+        <li>Developed with HTML/CSS, JavaScript, Svelte</li>
         <li>IDE: Visual Studio Code</li>
       </ul>
     </p>
@@ -56,42 +56,25 @@
      <strong>Next project:</strong>
         <ul>
         <li>Name: Personal portfolio website</li>
-        <li>Tech planning to use: HTML/CSS, JavaScript, Svelte</li>
-        <li>Planned IDE: Visual Studio Code</li>
+        <li>Planning to develop using HTML/CSS, JavaScript, Svelte or React</li>
+        <li>IDE: Visual Studio Code</li>
         </ul>
     </p>
   </div>
 
 
-  <p>
-    Contact me via <span><a href="https://www.linkedin.com/in/abi-gutierrez/"> LinkedIn</span> or at abigutierrezcortez@gmail.com!
-  </p>
-  <p>
-    
-  </p>
-</div>
+  <div id="contact">
+    <p>
+      Contact me via <a href="https://www.linkedin.com/in/abi-gutierrez/"> LinkedIn</a> or at abigutierrezcortez@gmail.com!
+    </p>
+  </div>
 
-
-<div id="statsWidget" align='center'>
+  <div id="statsWidget" align='center'>
   
   ![Abi's GitHub stats](https://github-readme-stats.vercel.app/api?username=agutierrezcodes&show_icons=true&theme=transparent)
   
+  </div>
 </div>
 
 
 
-
-
-<!--
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
