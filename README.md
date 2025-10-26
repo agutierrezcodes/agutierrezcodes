@@ -1,27 +1,29 @@
 <!-- 
-  Tutorial: https://medium.com/design-bootcamp/how-to-design-an-attractive-github-profile-readme-3618d6c53783
+  Tutorial used: https://medium.com/design-bootcamp/how-to-design-an-attractive-github-profile-readme-3618d6c53783
   Header: https://github.com/kyechan99/capsule-render
-  GitHub stats widget: https://github.com/anuraghazra/github-readme-stats 
+  GitHub stats widgets: https://github.com/anuraghazra/github-readme-stats 
 -->
 
 <div id="header">
   <p align='center'>
-      <img src="https://capsule-render.vercel.app/api?type=waving&text=Hello%20there!&fontColor=FFFFFF&color=1D3363&height=200&fontSize=60&animation=fadeIn&fontAlignY=38"/>
+      <img src="https://capsule-render.vercel.app/api?type=waving&text=Hello%20there!&fontColor=6D83B5&color=1D3363&height=200&fontSize=60&animation=fadeIn&fontAlignY=38"/>
   </p>
 </div>
 
 <div id="mainText">
+
+## Introduction
   <div id="intro">
     <p>
-      Hello! My name is Abigail Gutierrez and I am a recent graduate from the University of Washington with my BS in Computer Science and Systems.  <br /> <br />
-      <em>I am currently seeking entry-level software development positions.</em>
+      Hello! My name is Abigail Gutierrez and I am a recent graduate from the University of Washington with my BS in Computer Science and Systems. I am passionate about programming, creating, and learning new tech :)  <br /> <br />
+      <em>Currently seeking entry-level software development positions.</em>
     </p>
   </div>
 
+## Skills
 
-  <div id="skillsList">
+   <div id="skillSet">
     <p>
-      <strong>Skills:</strong>
       <ul>
       <li>Java</li>
       <li>Python</li>
@@ -40,43 +42,55 @@
     </ul>
     </p>
   </div>
-  
+
+## Most recent project:
 
   <div id="recentProj">
     <p>
-      <strong>Most recent project:</strong>
       <ul>
-        <li>Name: "IS IT TIME TO BRIDGE THE RACIAL WEALTH GAP? An exploration of the effects of the racial wealth gap in America"</li>
+        <li>Name: <em>"IS IT TIME TO BRIDGE THE RACIAL WEALTH GAP? An exploration of the effects of the racial wealth gap in America"</em></li>
         <li>Website link: https://agutierrezcodes.github.io/exploring-racial-wealth-gap/</li>
         <li>GitHub Repo: https://github.com/agutierrezcodes/exploring-racial-wealth-gap</li>
-        <li>Developed with HTML/CSS, JavaScript, Svelte</li>
+        <li>Read more about it on <a href="https://www.linkedin.com/posts/abi-gutierrez_datastorytelling-webdevelopment-kodewithklossy-activity-7357201504090411009-YlzE">LinkedIn</a>!
         <li>IDE: Visual Studio Code</li>
+        <li>Developed using HTML/CSS, JavaScript, Svelte, Bootstrap</li>
         <li>Created for the 2025 Kode with Klossy x Black Wealth Data Center Scrollytelling Challenge</li>
       </ul>
     </p>
   </div>
 
+## Next project:
   <div id="nextProj">
     <p>
-     <strong>Next project:</strong>
         <ul>
-        <li>Name: Personal portfolio website</li>
-        <li>Planning to develop using HTML/CSS, JavaScript, Svelte or React</li>
+        <li>Name: <em>Personal Website</em></li>
         <li>IDE: Visual Studio Code</li>
+        <li>Planning to develop using HTML/CSS, JavaScript, Bootstrap, Figma, & Svelte or React</li>
         </ul>
     </p>
   </div>
 
-
+## Contact:
   <div id="contact">
     <p>
       Please feel free to contact me via <a href="https://www.linkedin.com/in/abi-gutierrez/"> LinkedIn</a>!
     </p>
   </div>
 
-  <div id="statsWidget" align='center'>
+## Extras :)
+
+  <div id="statsWidget" align = "center" padding="space-around">
   
-  ![Abi's GitHub stats](https://github-readme-stats.vercel.app/api?username=agutierrezcodes&show_icons=true&theme=transparent)
+  ![Abi's GitHub stats](https://github-readme-stats.vercel.app/api?username=agutierrezcodes&rank_icon=github&show_icons=true&title_color=6D83B5&text_color=6D83B5&icon_color=1D3363&ring_color=1D3363&theme=transparent) &nbsp; &nbsp; ![Abi's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agutierrezcodes&langs_count=6&title_color=6D83B5&text_color=6D83B5&theme=transparent&hide_progress=true&card_width=300&custom_title=Abi's%20Top%20Languages)
+
+
+<!-- Not working yet, going to be a snake animation for github contribution graph -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
+  
   
   </div>
 </div>
