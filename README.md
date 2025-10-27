@@ -15,7 +15,7 @@
 ## Introduction
   <div id="intro">
     <p>
-      Hello! My name is Abigail Gutierrez and I am a recent graduate from the University of Washington with my BS in Computer Science and Systems. I am passionate about programming, creating, and learning new tech :)  <br /> <br />
+      Hello! My name is Abigail Gutierrez and I am a recent graduate from the University of Washington with my BS in Computer Science and Systems. I am passionate about programming and learning new tech :)  <br /> <br />
       <em>Currently seeking entry-level software development positions.</em>
     </p>
   </div>
@@ -65,7 +65,7 @@
         <ul>
         <li>Name: <em>Personal Website</em></li>
         <li>IDE: Visual Studio Code</li>
-        <li>Planning to develop using HTML/CSS, JavaScript, Bootstrap, Figma, & Svelte or React</li>
+        <li>Planning to develop using HTML/CSS, Bootstrap, TypeScript, Node.js, Figma, and Svelte or React</li>
         </ul>
     </p>
   </div>
