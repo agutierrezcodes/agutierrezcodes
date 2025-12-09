@@ -81,7 +81,7 @@
 
   <div id="statsWidget" align = "center" padding="space-around">
   
-  ![Abi's GitHub stats](https://github-readme-stats.vercel.app/api?username=agutierrezcodes&rank_icon=github&show_icons=true&title_color=6D83B5&text_color=6D83B5&icon_color=1D3363&ring_color=1D3363&theme=transparent) &nbsp; &nbsp; ![Abi's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agutierrezcodes&langs_count=6&title_color=6D83B5&text_color=6D83B5&theme=transparent&hide_progress=true&card_width=300&custom_title=Abi's%20Top%20Languages)
+<!--  ![Abi's GitHub stats](https://github-readme-stats.vercel.app/api?username=agutierrezcodes&rank_icon=github&show_icons=true&title_color=6D83B5&text_color=6D83B5&icon_color=1D3363&ring_color=1D3363&theme=transparent) &nbsp; &nbsp; ![Abi's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agutierrezcodes&langs_count=6&title_color=6D83B5&text_color=6D83B5&theme=transparent&hide_progress=true&card_width=300&custom_title=Abi's%20Top%20Languages) -->
 
 
 ![snake gif](https://github.com/agutierrezcodes/agutierrezcodes/blob/output/snake-dark.svg)
